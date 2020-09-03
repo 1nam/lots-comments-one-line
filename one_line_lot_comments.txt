@@ -1,0 +1,4 @@
+
+in terminal seperate each command with ;
+
+echo welcome to linux; whoami; echo hello; echo world; echo '!';
